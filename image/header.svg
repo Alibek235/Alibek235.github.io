@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640mm"
+   height="100mm"
+   viewBox="0 0 640 100"
+   version="1.1"
+   id="svg68483"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="header.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview68485"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="700mm"
+     inkscape:zoom="0.5096119"
+     inkscape:cx="1085.1395"
+     inkscape:cy="279.62456"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs68480" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:80px;line-height:1.25;font-family:Amiri;-inkscape-font-specification:Amiri;letter-spacing:-0.185208px;word-spacing:0.116417px;stroke-width:0.465;stroke-miterlimit:4;stroke-dasharray:none"
+       x="16.090286"
+       y="69.835526"
+       id="text72133"><tspan
+         sodipodi:role="line"
+         id="tspan72131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'Freehand521 BT';-inkscape-font-specification:'Freehand521 BT';fill:#ffffff;stroke:#000000;stroke-width:0.465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="16.090286"
+         y="69.835526"
+         dx="0"
+         dy="0"
+         rotate="11.7 11.7 11.7 11.7 11.7 11.7 11.7 11.7 11.7 11.7 11.7 11.7 11.7 0">Репетитор на </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:79.9999px;line-height:1.25;font-family:Amiri;-inkscape-font-specification:Amiri;fill:#ff0000;stroke-width:0.264583"
+       x="538.09436"
+       y="72.540298"
+       id="text99213"><tspan
+         sodipodi:role="line"
+         id="tspan99211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Embassy BT';-inkscape-font-specification:'Embassy BT';fill:#ff0000;stroke-width:0.264583"
+         x="538.09436"
+         y="72.540298"
+         rotate="356.49997 10 0">5+</tspan></text>
+  </g>
+</svg>
